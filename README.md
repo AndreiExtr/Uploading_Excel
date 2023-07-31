@@ -1,6 +1,6 @@
 # The first project in C#
 
-## Example
+### Example
 ```
 using System;
 using System.Collections.Generic;
