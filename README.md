@@ -1,5 +1,12 @@
 <h1 align="left">The first project in C#</a></h1>
 
+<ul>
+  <li>Before using Avalonia, you need to download the assembly on the official website</li>
+  <li>The application was made in the Avalonia UI assembly</li>
+  <li>Apple</li>
+  <li>IBM</li>
+</ul>
+
 ### Example
 ```
 using System;
