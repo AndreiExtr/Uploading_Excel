@@ -1,6 +1,7 @@
 # The first project in C#
-Avalonia must be downloaded from the [official website](https://www.avaloniaui.net/GettingStarted#installation).
-
++ To work with Avalonia from Visual Studio, you need to install the extension from the official Avalonia UI [official website](https://www.avaloniaui.net/GettingStarted#installation).
++ Avalonia is delivered via the NuGet package manager. You can find the packages [here](https://www.nuget.org/packages/Avalonia).
++ Before working with an excel file, you need to add the Microsoft.Office.Interop package.Excel
 
 ### Example
 ```
