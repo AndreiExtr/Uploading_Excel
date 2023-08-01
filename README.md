@@ -1,6 +1,5 @@
 <h1 align="left">The first project in C#</a></h1>
-+ The application was made in the Avalonia UI assembly
-+ Avalonia must be downloaded from the official [website](https://www.avaloniaui.net/GettingStarted#installation)
+Avalonia must be downloaded from the official [website](https://www.avaloniaui.net/GettingStarted#installation)
 
 
 ### Example
