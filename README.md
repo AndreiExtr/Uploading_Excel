@@ -1,5 +1,5 @@
 <h1 align="left">The first project in C#</a></h1>
-Avalonia must be downloaded from the official [website](https://www.avaloniaui.net/GettingStarted#installation).
+Avalonia must be downloaded from the [official website](https://www.avaloniaui.net/GettingStarted#installation).
 
 
 ### Example
