@@ -29,7 +29,7 @@ namespace Programming
         static async Task Main(string[] args)
         {
             using var client = new HttpClient();
-            var response = await client.GetStringAsync("https://andreiextr.github.io/Uploading_Excel//page.html");
+            var response = await client.GetStringAsync("https://andreiextr.github.io/Uploading_Excel/");
 
             Console.WriteLine(response);
         }
