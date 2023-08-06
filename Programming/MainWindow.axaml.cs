@@ -26,6 +26,14 @@ namespace Programming
     public partial class MainWindow : Window
     {
 
+        static async Task Main(string[] args)
+        {
+            using var client = new HttpClient();
+            var response = await client.GetStringAsync("https://andreiextr.github.io/Uploading_Excel//page.html");
+
+            Console.WriteLine(response);
+        }
+
         private ObservableCollection<MyClass> dataItems;
         public MainWindow()
         {
